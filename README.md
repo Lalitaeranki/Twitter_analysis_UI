@@ -7,5 +7,3 @@ In this assignment, I have created a Python script to perform a sentiment analys
 Tweepy, Python, NumPy, MAtplotlib,Jupyter Notebook
 
 ## Visualizations
-![alt text]()
-![alt text]()
